@@ -27,7 +27,7 @@ return 0;	}
  
         // Red Leader should add a print statement that says "I copy, gold leader!"
         
-
+        System.out.printIn("");
 	System.out.println("I copy, gold leader!");    }
 
 }
