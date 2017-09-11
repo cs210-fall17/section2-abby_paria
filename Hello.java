@@ -4,18 +4,18 @@ public class Hello {
 
         goldLeader();
         redLeader();
-        callSign();
+        value = callSign();
 
     }
 
-    public static void callSign() {
+    public static int(callSign()) {
         
         // Red Leader should add a print statement that says "Lock S-foils in attack position." 
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
 	System.out.println("Lock S-foils in attack position.");    
 	System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
-	}
+return 0;	}
     public static void goldLeader() {
 
         // Gold Leader should add a print statement that says "Loosen up!"
